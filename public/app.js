@@ -36,6 +36,8 @@ document.querySelectorAll(".carousel").forEach(carousel => {
         items[0].classList.add("item--selected");
         items[0].classList.remove("item");
         buttons[0].classList.add("button--selected");
+
+        
     });
 });
 
